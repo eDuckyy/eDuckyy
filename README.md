@@ -1,0 +1,3 @@
+- 👋 Welcome to my profile!
+- 👀 I’m interested in 'Python', 'Java', 'C++', 'LuaU' & more
+- 🌱 I’m currently learning 'Python', 'Java', 'LuaU'
